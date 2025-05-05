@@ -6,7 +6,7 @@ const Footer = () => {
       Copyright &copy; {1900 + new Date().getYear()}
       <a target="_blank" href="https://github.com/thekiranmahajan/FundVerse">
         <span className="inline-block text-center px-4 py-2 rounded-lg bg-[#c8cbcecb] dark:bg-[#2c2f32] text-[#6F01Ec]  font-semibold">
-          FundVerse
+          Ai Ledger
         </span>
       </a>
       All Rights Reserved.
