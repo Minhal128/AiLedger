@@ -51,7 +51,7 @@ const Navbar = () => {
                 },
               }))
           }
-          modalTitle={"FundVerse"}
+          modalTitle={"AiLedger"}
           modalSize={"wide"}
           welcomeScreen={{
             img: {
@@ -60,7 +60,7 @@ const Navbar = () => {
               height: 200,
             },
             title:
-              "Welcome To FundVerse: A Decentralised CrowdFunding Application",
+              "Welcome To AiLedger: A Decentralised CrowdFunding Application",
           }}
           modalTitleIconUrl={logo}
           showThirdwebBranding={false}
@@ -151,7 +151,7 @@ const Navbar = () => {
                     },
                   }))
               }
-              modalTitle={"FundVerse"}
+              modalTitle={"AiLedger"}
               modalSize={"wide"}
               welcomeScreen={{
                 img: {
@@ -160,7 +160,7 @@ const Navbar = () => {
                   height: 200,
                 },
                 title:
-                  "Welcome To FundVerse: A Decentralised CrowdFunding Application",
+                  "Welcome To AiLedger: A Decentralised CrowdFunding Application",
               }}
               modalTitleIconUrl={logo}
               showThirdwebBranding={false}

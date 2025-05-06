@@ -10,7 +10,7 @@ const Sidebar = () => {
     <div className="flex justify-between items-center flex-col sticky top-5 h-[93vh] select-none">
       <NavLink to="/">
         <Icon
-          name="FundVerse"
+          name="AiLedger"
           styles="w-[52px] h-[52px] bg-[#f0f0f0] dark:bg-[#2c2f32] shadow-md "
           imgUrl={logo}
         />
