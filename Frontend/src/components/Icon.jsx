@@ -35,7 +35,7 @@ const Icon = ({ styles, name, imgUrl, isActive }) => {
         <img
           src={imgUrl}
           alt="fund_logo"
-          className={`w-1/2 h-1/2 ${name === "FundVerse" && "w-full h-full"}`}
+          className={`w-1/2 h-1/2 ${name === "AiLedger" && "w-full h-full"}`}
         />
       ) : (
         <img
